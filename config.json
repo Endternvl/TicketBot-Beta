@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "!",
+    "serverID": "YOUR_SERVER_ID",
+    "ModeratorRoles": ["Admin", "Developers"]
+}

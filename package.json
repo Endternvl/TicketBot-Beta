@@ -1,0 +1,17 @@
+{
+  "name": "txcket",
+  "version": "1.0.0",
+  "description": "A Ticket Bot For Tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TimesCord"
+  ],
+  "author": "Endternvl",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
