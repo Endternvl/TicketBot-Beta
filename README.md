@@ -7,3 +7,5 @@ It's Very Simple.
 - do `npm i` on your console
 - setup the `config.json` file
 - and done, you can start to code! very simple!
+
+> currently on **DISCORD.JS V12.5.3**
